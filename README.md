@@ -1,5 +1,5 @@
 # HousePrices
-É um modelo para prever o preço de venda de residências em Ames e Iowa nos Estados Unidos. Fonte: Kaggle
+É um modelo para prever o preço de venda de residências em Ames no estado de Iowa nos Estados Unidos. Fonte: Kaggle
 
 No primeiro modelo criado eu adotei segui os seguintes passos principais:
 1 - Limpei os dados utilizando apenas as colunas numéricas
